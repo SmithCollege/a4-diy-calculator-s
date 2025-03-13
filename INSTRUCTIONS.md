@@ -20,7 +20,7 @@ Your second program will read an infix expression and compute the result:
 	Input: "(3+2)*5"
 	Answer: 25
 
-For grading, we will run the methods you write by testing, though you are welcome to create a main method if it's helpful.
+For grading, we will run the methods you write by testing, though you are welcome to create a m]TRain method if it's helpful.
 
 ### Stack and Queue Implementations
 For this assignment, we will use instances of the Java built-in `ArrayDeque` class (see [documentation](https://docs.oracle.com/javase/9/docs/api/java/util/ArrayDeque.html)) to serve as either a stack or a queue.
